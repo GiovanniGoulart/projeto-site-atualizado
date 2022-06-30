@@ -8,10 +8,7 @@ body {
 }
  
 img.lado {
-    float: righti;
-}
-
-main{
+    float: righti}main{
     background-color: rgba(255, 255, 255, 0.589);
     width: 500px;
     margin: auto;
